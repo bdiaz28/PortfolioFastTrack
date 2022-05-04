@@ -26,7 +26,7 @@ class About extends React.Component {
         {
           id: "second-p-about",
           content:
-          "Most recently, I am a graduate of the FastTrack Java Developer program. Having a background in hospitality management and a full stack developer certificate, I bring a well-rounded, moldable approach to the team. I have had the priviledge of collaborating with several teams to create beautiful, interactive web apps. One of my favorites is called Electro-Enthusiasts. Electro-Enthusiasts is a full stack project created as a community review forum to discuss new launches and review products. Check it out in my Projects section!"
+          "Most recently, I am a graduate of the FastTrack Java Developer program. Having a background in hospitality management and a full stack developer certificate, I bring a well-rounded, moldable approach to the team. I have had the priviledge of collaborating with several teams to create beautiful, interactive web apps. One of my favorites is called Electro-Enthusiasts. It is a full stack project created as a community review forum to discuss new launches and review products. Check it out in my Projects section!"
         },
         {
           id: "third-p-about",
