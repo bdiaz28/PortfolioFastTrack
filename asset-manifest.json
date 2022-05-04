@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PortfolioFastTrack/static/css/main.df00d186.chunk.css",
+    "main.js": "/PortfolioFastTrack/static/js/main.2943b3c1.chunk.js",
+    "main.js.map": "/PortfolioFastTrack/static/js/main.2943b3c1.chunk.js.map",
+    "runtime-main.js": "/PortfolioFastTrack/static/js/runtime-main.a0c57f4b.js",
+    "runtime-main.js.map": "/PortfolioFastTrack/static/js/runtime-main.a0c57f4b.js.map",
+    "static/css/2.bf3e7d99.chunk.css": "/PortfolioFastTrack/static/css/2.bf3e7d99.chunk.css",
+    "static/js/2.c3af00b9.chunk.js": "/PortfolioFastTrack/static/js/2.c3af00b9.chunk.js",
+    "static/js/2.c3af00b9.chunk.js.map": "/PortfolioFastTrack/static/js/2.c3af00b9.chunk.js.map",
+    "index.html": "/PortfolioFastTrack/index.html",
+    "precache-manifest.7a72ac4f6b82889aef7e931e3ca6184e.js": "/PortfolioFastTrack/precache-manifest.7a72ac4f6b82889aef7e931e3ca6184e.js",
+    "service-worker.js": "/PortfolioFastTrack/service-worker.js",
+    "static/css/2.bf3e7d99.chunk.css.map": "/PortfolioFastTrack/static/css/2.bf3e7d99.chunk.css.map",
+    "static/css/main.df00d186.chunk.css.map": "/PortfolioFastTrack/static/css/main.df00d186.chunk.css.map",
+    "static/js/2.c3af00b9.chunk.js.LICENSE": "/PortfolioFastTrack/static/js/2.c3af00b9.chunk.js.LICENSE",
+    "static/media/BGM1.png": "/PortfolioFastTrack/static/media/BGM1.29b30045.png",
+    "static/media/BGM2.png": "/PortfolioFastTrack/static/media/BGM2.ec991c4f.png",
+    "static/media/Resume_BDiaz.pdf": "/PortfolioFastTrack/static/media/Resume_BDiaz.3beb8a31.pdf",
+    "static/media/beautyblog.jpg": "/PortfolioFastTrack/static/media/beautyblog.22b33353.jpg",
+    "static/media/craftcritic.jpg": "/PortfolioFastTrack/static/media/craftcritic.bdb21fa3.jpg",
+    "static/media/earth.jpg": "/PortfolioFastTrack/static/media/earth.67af05e1.jpg",
+    "static/media/electroEnthusiast.jpeg": "/PortfolioFastTrack/static/media/electroEnthusiast.276ca1b6.jpeg",
+    "static/media/font-awesome.css": "/PortfolioFastTrack/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ionicons.css": "/PortfolioFastTrack/static/media/ionicons.621bd386.svg",
+    "static/media/profilepic.jpeg": "/PortfolioFastTrack/static/media/profilepic.d61e9ca7.jpeg",
+    "static/media/regex.jpg": "/PortfolioFastTrack/static/media/regex.b0af327d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c57f4b.js",
+    "static/css/2.bf3e7d99.chunk.css",
+    "static/js/2.c3af00b9.chunk.js",
+    "static/css/main.df00d186.chunk.css",
+    "static/js/main.2943b3c1.chunk.js"
+  ]
+}
