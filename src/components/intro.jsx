@@ -1,7 +1,7 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
-import pdf from '../file/Resume_BDiaz.pdf';
+import pdf from '../file/FullStackWebDev_Resume.pdf';
 
 class Intro extends React.Component {
   render() {
